@@ -1,0 +1,36 @@
+html {
+  font-family: Merriweather, serif;
+}
+
+.calendar, td, th {
+  border: 1px solid #ccc;
+}
+
+tbody td {
+  height: 11em;
+}
+
+.event {
+  background-color: #f2f2f2;
+  border: 1px solid #666;
+  border-radius: 8px;
+  color: #333;
+}
+
+.event-media {
+  background-color: #d2d6f0;
+  border-color: #1d38da;
+  color: #38448e;
+}
+
+.event-earth {
+  background-color: #d1e0bf;
+  border-color: #6b7e54;
+  color: #51603f;
+}
+
+.event-holiday {
+  background-color: #f2bcbc;
+  border-color: #b92828;
+  color: #991919;
+}
